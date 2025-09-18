@@ -10,4 +10,3 @@ for option in options:
 choice = input("Type your choice here: ")
 if choice.lower == "exit":
     exit()
-print("ot not work")
